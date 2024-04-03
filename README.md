@@ -14,15 +14,17 @@ A tela principal exibe todas as categorias de comida disponíveis. Ao clicar em 
 
 Nesta tela, todas as refeições da categoria selecionada são exibidas. O usuário pode escolher uma refeição específica para visualizar os detalhes.
 
+### Tela de Receita
+<img src="https://i.imgur.com/hdEi1CT.png" alt="Tela de Receita" width="250">
+
+Ao clicar em uma refeição, o usuário é levado para a tela de receita correspondente, onde pode visualizar os detalhes e instruções da receita.
+
+
 ### Tela de Favoritos
 <img src="https://i.imgur.com/Yp8u80L.png" alt="Tela de Favoritos" width="250">
 
 Esta tela exibe todas as refeições marcadas como favoritas. No exemplo, a lista está vazia, indicando que nenhum item foi marcado como favorito.
 
-### Tela de Receita
-<img src="https://i.imgur.com/hdEi1CT.png" alt="Tela de Receita" width="250">
-
-Ao clicar em uma refeição, o usuário é levado para a tela de receita correspondente, onde pode visualizar os detalhes e instruções da receita.
 
 ### Tela de Filtros
 <img src="https://i.imgur.com/eUFhHxc.png" alt="Tela de Filtros" width="250">
